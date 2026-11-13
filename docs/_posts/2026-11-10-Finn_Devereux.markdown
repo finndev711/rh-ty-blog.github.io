@@ -19,7 +19,9 @@ After lunch, we had a presentation on Agile workflow and scrum. Then, we practic
 
 
 ## Tuesday
-On Tuesday, we started the day doing our first stand up, watching the workers doing it first and then we tried it. Then, we got our laptops and made GitHub accounts and we started writing our blog for Monday. After that, we opened the terminal and downloaded python. Then we wrote our first lines of code in python. We learned values + variables, if conditionals + statements, and for loops. After that we played Monopoly.
+On Tuesday, we started the day doing our first stand up, watching the workers doing it first and then we tried it. Then, we got our laptops and made GitHub accounts and we started writing our blog for Monday. After that, we opened the terminal and downloaded python. Then we wrote our first lines of code in python. We learned values + variables, if conditionals + statements, and for loops.
+
+After that we played Monopoly,which I got first in. Then, we played crack a million passwords which was interesting and taught me how passwords are encrypted.
 
 
 
@@ -27,46 +29,19 @@ On Tuesday, we started the day doing our first stand up, watching the workers do
 
 
 ## Wednesday
-On Wednesday, we started the day with a stand up. After that, Will showed us the basics of bash. Then, we played Over the Wire. After, we watched a presentation on the Cloud and the history behind it. Then, all the interns shared their stories on how they came to Red Hat and their education background.
+On Wednesday, we started the day with a stand up. After that, Will showed us the basics of bash. Then, we played Over the Wire. After, we watched a presentation on the Cloud and the history behind it, as well as career paths in computing. Then, all the interns shared their stories on how they came to Red Hat and their education background.
 
-Then we had an hour for lunch where I relaxed and played ping pong. After lunch, we had to design a roller coaster with a 360 degree loop in it with plastic straws and connector pieces in our groups. 
+Then we had an hour for lunch where I relaxed and played ping pong. After lunch, we had to design a roller coaster with a 360 degree loop in it with plastic straws and connector pieces in our groups. It didn't work but it still looked good.
 
 ---
-
-
-![Red Hat Tys](https://media.licdn.com/dms/image/D4E12AQGU2MRA1t_flw/article-cover_image-shrink_720_1280/0/1669889882460?e=2147483647&v=beta&t=2iisPY76v14iDs2r6ruxcI0rKQ5a51bWC5Ted8bh6Fc "Red Hat TYs")
-
-**This is the text area where you can enter your blog details for Wednesday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
-
-
 ---
 
 
 ## Thursday
 
+On Thursday, we started the day with a Town Hall meeting, and after that we had breakfast. Then, we watched a presentation on the Zooniverse, which is where online volunteers help scientists and researchers to do things like classify animals, transcribe old documents,etc. There are currently over 3 million registered volunteers. After that we tried it out ourselves. Then, we listened to an AI talk from James where he showed us how to use Gemini Notebook to make quizzes,podcasts, infographics, etc with it. Then he showed us a quiz he made with our survey answers and it was very interesting.
 
----
-
-
-![Terminal](https://helpdeskgeek.com/wp-content/pictures/2023/01/preview-media-0-Title-Image.jpg "Terminal")
-
-**This is the text area where you can enter your blog details for Thursday**.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
-
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
-
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
+After that we had lunch. Then, we had to make a presentation on sustainability. Our topic was sustainable software development and green coding. We then presented it to the room. After we watched all the presentations, I left to catch a bus.
 
 ---
 
